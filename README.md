@@ -14,19 +14,6 @@ To run the project, use the following command:
 npm run dev
 This will start the development server, and you can view the project in your browser at http://localhost:5173.
 
-Folder Structure:
-src/
-  ├── components/
-  │     ├── AddTodo.jsx
-  │     └── TodoCard.jsx
-  ├── animation/
-  │     └── AnimatedSpin.jsx
-  ├── context/
-  │     └── TodoContext.jsx
-  ├── pages/
-  │     └── TodoView.jsx
-  ├── App.jsx
-  └── main.jsx
 Usage:-
 Creating a Todo:
 To create a new todo, use the AddTodo component. This component contains a form to input the todo details and submit them to the API.
